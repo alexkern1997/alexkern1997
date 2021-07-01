@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alexkern1997
+- 🌱 I’m currently a Artificial Intelligence master student writing his thesis about Visual representation learning through natural language supervision
+- 📫 How to reach me alexkern1997@gmail.com
